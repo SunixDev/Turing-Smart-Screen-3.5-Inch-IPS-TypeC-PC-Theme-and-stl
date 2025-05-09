@@ -1,4 +1,4 @@
-# Turing-Smart-Screen-3.5-Inch-IPS Themes
+# Turing-Smart-Screen-3.5-Inch-IPS Themes and STL
 
 
 ## Available Themes
