@@ -21,4 +21,3 @@ Restart the application to load the new themes.
 © 2025 SunixDev
 
 Licensed under the Creative Commons Attribution 4.0 International License.  
-See [LICENSE](LICENSE) for details.
